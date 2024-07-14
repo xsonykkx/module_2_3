@@ -7,5 +7,5 @@ while number < len(my_list):
     elif my_list[number] == 0:
         number += 1
         continue
-        print(my_list[number])
-        number += 1
+    print(my_list[number])
+    number += 1
